@@ -14,7 +14,7 @@ To get started with this project, follow the steps below:
 Begin by cloning the Laravel 8 project from GitHub using the following command:
 
 ```bash
-git remote add origin https://github.com/Saber4Dev/laravel_dashboard_v13.git
+git clone https://github.com/Saber4Dev/laravel_dashboard_v13.git
 ```
 
 
