@@ -23,7 +23,7 @@ Before you start, make sure you have access to the CPanel and the necessary SSH 
 
 follow the steps below:
 
-### Step 1.2: Clone the Project
+### Step 2: Clone the Project
 Clone the Laravel project from the provided Git repository using the following command:
 
 ```bash
@@ -87,7 +87,7 @@ Run the database migrations to create the necessary tables:
 php artisan migrate
 ```
 
-### Step 7: Migrate the Database
+### Step 8: Set Proper File Permissions
 Ensure that the storage and bootstrap/cache directories have the appropriate write permissions. On CPanel, you can do this through the file manager or using the following commands:
 ```bash
 chmod -R 777 storage
